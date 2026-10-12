@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👨‍💻 **Full-Stack Developer | AI Developer | AI Graphic Designer | Social Media Manager**
+👨‍💻 Full-Stack AI Developer | AI Software Designer | UI/UX Designer | AI QA & Test Engineer | Social Media Manager | AI Project Manager
 
 🔭 **Currently working on:** Full-stack web applications, AI-powered solutions, automation workflows, and client-based digital projects.
 
