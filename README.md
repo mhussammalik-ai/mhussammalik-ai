@@ -150,5 +150,5 @@ Developed **PakistanAI**, a personal AI assistant project focused on Pakistani u
 <div align="center">
   <i>"I combine coding, AI, creative design, and digital media to turn ideas into complete digital solutions."</i>
   <br><br>
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=mhussammalik-ai&icon=0&color=0" alt="Profile Views"></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://animated-taffy-c0cae6.netlify.app/-ai&icon=0&color=0" alt="Profile Views"></a>
 </div>
