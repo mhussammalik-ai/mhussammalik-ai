@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhussammalik-ai)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/em6LQj3)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1554559587686940858)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E1420?style=for-the-badge&logo=netlify&logoColor=white)](https://boisterous-lolly-ac2e5d.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E1420?style=for-the-badge&logo=netlify&logoColor=white)](https://animated-taffy-c0cae6.netlify.app/)
 
 </div>
 
@@ -150,5 +150,5 @@ Developed **PakistanAI**, a personal AI assistant project focused on Pakistani u
 <div align="center">
   <i>"I combine coding, AI, creative design, and digital media to turn ideas into complete digital solutions."</i>
   <br><br>
-  <a href="https://visitcount.itsvg.in"><img src="https://animated-taffy-c0cae6.netlify.app/" alt="Profile Views"></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=mhussammalik-ai&icon=0&color=0" alt="Profile Views"></a>
 </div>
