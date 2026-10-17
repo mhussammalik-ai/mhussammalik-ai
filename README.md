@@ -1,24 +1,26 @@
 # 💫 About Me
 
-👨‍💻 Full-Stack AI Developer | AI Software Designer | UI/UX Designer | AI QA & Test Engineer | Social Media Manager | AI Project Manager
+👨‍💻 Senior Full-Stack Developer | Reverse Engineer | AI Designer | Senior UI/UX Designer | QA / Test Engineer | Senior Social Media Manager | Project Manager
 
-🔭 **Currently working on:** Full-stack web applications, AI-powered solutions, automation workflows, and client-based digital projects.
+🔭 **Currently working on:** Full-stack web applications, AI-powered solutions, automation workflows, and 2026 client projects (Midwest Supplies LLC, Dental Clinic Management, Cambridge Hospital USA, and Stationery & Printing).
 
-💼 **Professional experience:** Freelance development and digital projects involving full-stack websites, PHP/MySQL systems, AI solutions, graphic design, and social media content.
+💼 **Professional experience:** Freelance development and digital projects involving full-stack websites, PHP/MySQL systems, Node.js backends, AI solutions, reverse engineering, graphic design, and social media content. Selected by Al-Kawthar University's IT Department to restructure their digital platforms.
 
-🌱 **Currently learning:** Advanced AI development, AI automation, prompt engineering, modern web technologies, and intelligent digital workflows.
+🌱 **Currently learning:** Pursuing a BSCS at Al-Kawthar University and an ACCP AI Professional Diploma at Aptech. Focused on advanced AI development, YOLOv8 object detection, Edge AI, and intelligent digital workflows.
 
-🤝 **Open to collaboration on:** AI development, web development, automation, graphic design, branding, and social media projects.
+🤝 **Open to collaboration on:** AI development, full-stack web development, reverse engineering, QA testing, automation, graphic design, branding, and social media projects.
 
-💬 **Ask me about:** Full-stack development, AI development, AI image generation, prompt engineering, AI graphic design, web technologies, and social media management.
+💬 **Ask me about:** Full-stack development, AI development, prompt engineering, YOLOv8n/Computer Vision, AI graphic design, reverse engineering, and QA/Software testing.
 
-⚡ **Fun fact:** I combine **coding, AI, creative design, and digital media** to turn ideas into complete digital solutions.
+⚡ **Fun fact:** I combine **coding, AI, creative design, and digital media** to turn ideas into complete digital solutions — from database schema to final UI/UX.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussam-malik-0b49b9383/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhussammalik-ai)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/em6LQj3)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1554559587686940858)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E1420?style=for-the-badge&logo=netlify&logoColor=white)](https://boisterous-lolly-ac2e5d.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussammalikm@gmail.com)
 
 ## 💻 Tech Stack
@@ -48,16 +50,22 @@
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-333333?style=for-the-badge)
 
-### Testing
+### QA & Testing
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![QA Testing](https://img.shields.io/badge/QA%20Testing-0052CC?style=for-the-badge)
 
-### AI & Automation
+### AI, Automation & Reverse Engineering
 ![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge)
 ![AI Image Generation](https://img.shields.io/badge/AI%20Image%20Generation-6C5CE7?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
+![Retell AI](https://img.shields.io/badge/Retell%20AI-FF4F00?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-333333?style=for-the-badge)
 
 ### Design & Creative
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -72,6 +80,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -83,13 +93,14 @@
 
 ## 👨‍💻 What I Build
 
-- 🌐 Responsive full-stack websites
-- 🧩 PHP/MySQL business systems and admin panels
-- 🤖 AI-powered applications and integrations
+- 🌐 Responsive full-stack websites and web applications
+- 🧩 PHP/MySQL business systems and administrative panels
+- 🤖 AI-powered applications, chatbots, and Retell AI calling agents
+- 👁️ Computer vision systems (YOLOv8n) and Edge AI research
 - ⚙️ AI automation and intelligent workflows
 - 🎨 AI-generated graphics, branding, and digital content
-- 📱 Social media content and management
-- 🎮 JavaScript browser games and interactive experiences
+- 🔍 Reverse engineering and legacy code analysis
+- ✅ Manual, functional, and responsive QA testing
 - 🔗 REST APIs and third-party service integrations
 
 ---
