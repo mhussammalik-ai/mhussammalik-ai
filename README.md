@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1554559587686940858)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E1420?style=for-the-badge&logo=netlify&logoColor=white)](https://embed-6ad4b210cd5c344b7a04f686--enchanting-tulumba-45538a.netlify.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhussammalik-ai&style=for-the-badge&color=0E1420)
+![Profile Views]https://embed-6ad4b210cd5c344b7a04f686--enchanting-tulumba-45538a.netlify.app/ 
 
 </div>
 
