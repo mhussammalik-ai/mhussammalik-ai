@@ -4,10 +4,10 @@
 
 ### Senior Full-Stack Developer · Reverse Engineer · AI Engineer · UI/UX Designer · QA / Test Engineer · Project Manager
 
-📍 Karachi Division, Sindh, Pakistan
+📍 Karachi Division, Sindh, Pakistan  
 📞 [+92 335 8144899](tel:+923358144899) · ✉️ [hussammalikm@gmail.com](mailto:hussammalikm@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0E1420?style=for-the-badge&logo=netlify&logoColor=white)](https://brilliant-pixie-a5cf89.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0E1420?style=for-the-badge&logo=netlify&logoColor=white)](https://brilliant-pixie-a5cf89.netlify.app/#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussam-malik-0b49b9383/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhussammalik-ai)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/em6LQj3)
@@ -463,7 +463,7 @@ Ramadan 2026 Flipping Book — Pakistan · ION-I2 Live Assembly View · Ion Thru
 
 ## 🚀 Leadership & Extracurricular
 
-**President · Writer · Student Media Manager · AI Graphic Designer**
+**President · Writer · Student Media Manager · AI Graphic Designer**  
 **Tech & Innovation Society — Al-Kawthar University** · *Sep 2025 – Oct 2026*
 
 - Led society activities and organizational coordination as President.
@@ -507,7 +507,7 @@ Ramadan 2026 Flipping Book — Pakistan · ION-I2 Live Assembly View · Ion Thru
 
 ### 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0E1420?style=for-the-badge&logo=netlify&logoColor=white)](https://brilliant-pixie-a5cf89.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0E1420?style=for-the-badge&logo=netlify&logoColor=white)](https://brilliant-pixie-a5cf89.netlify.app/#home)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussam-malik-0b49b9383/)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussammalikm@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/em6LQj3)
